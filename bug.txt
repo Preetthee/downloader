@@ -1,0 +1,2 @@
+To fix
+1. when the link is too big the textview is exiting app geometry.
